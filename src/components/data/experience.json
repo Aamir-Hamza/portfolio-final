@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Full Stack Development",
+    "issuer": "Coursera",
+    "startDate": "Jan 2024",
+    "endDate": "Mar 2024",
+    "description": "Completed a comprehensive Full Stack Development course covering MERN stack.",
+    "imageUrl": "https://i.ibb.co/W47JH2Fx/construc-week-project-cirtificate.png"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Algorithms & Data Structures",
+    "issuer": "freeCodeCamp",
+    "startDate": "Feb 2023",
+    "endDate": "May 2023",
+    "description": "Learned advanced JavaScript concepts, algorithms, and data structures.",
+    "imageUrl": "https://i.ibb.co/W47JH2Fx/construc-week-project-cirtificate.png"
+  },
+  {
+    "id": 3,
+    "title": "React.js Frontend Development",
+    "issuer": "Udemy",
+    "startDate": "June 2023",
+    "endDate": "Aug 2023",
+    "description": "Built interactive user interfaces using React.js, Hooks, and Redux.",
+    "imageUrl": "https://i.ibb.co/W47JH2Fx/construc-week-project-cirtificate.png"
+  }
+]
