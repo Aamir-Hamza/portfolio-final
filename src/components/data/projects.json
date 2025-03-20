@@ -1,18 +1,18 @@
 [
   {
     "key": 1,
-    "title": "React E-Commerce",
-    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "title": "Quiz App",
+    "imageSrc": "https://i.ibb.co/jqzXKzY/Screenshot-2025-03-19-092721.png",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://educationquizzapp.netlify.app/",
+    "source": "https://github.com/Aamir-Hamza/Responsive-rider-solo"
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
+    "title": "Fitness-tracking",
+    "imageSrc": "https://i.ibb.co/XfVLYgQj/Screenshot-2025-03-19-094151.png",
+    "description": "This is a project made with complete MERN.",
+    "demo": "https://polite-hotteok-c25d61.netlify.app/",
     "source": "https://www.github.com"
   },
   {
