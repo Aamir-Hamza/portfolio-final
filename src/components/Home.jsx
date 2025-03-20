@@ -33,7 +33,7 @@ const Home = () => {
 
           <a
             href={pdf}
-            download="Resume.pdf"
+            download="final-blr.pdf"
             className="btn btn-outline-warning my-3"
           >
             Download Resume
